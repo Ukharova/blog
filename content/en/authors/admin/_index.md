@@ -48,6 +48,24 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
+- icon: mindeley
+  icon_pack: ai
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: researchgate
+  icon_pack: ai
+  link: https://twitter.com/GeorgeCushen
+- icon: orcid
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: coursera
+  icon_pack: ai
+  link: https://github.com/gcushen
+- icon: erlang
+  icon_pack: fab
+  link: '#'
+- icon: publons
+  icon_pack: ai
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,6 +82,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ukharova Sofya, studying at the RUDN University in the field of "fundamental informatics and information technology".
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Interested in mobile app development, web development, and artificial intelligence
