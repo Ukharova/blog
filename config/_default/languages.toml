@@ -10,7 +10,7 @@
 # Uncomment the lines below to configure your website in a second language.
 [ru]
   languageCode = "ru-ru"
-  contentDir = "content/zh"
+  contentDir = "content/ru"
   title = "Софья В. Ухарова"
   [ru.params]
     description = "Сайт-резюме Ухаровой Софьи Вячеславовны"
