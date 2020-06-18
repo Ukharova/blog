@@ -84,4 +84,4 @@ user_groups:
 
 Ukharova Sofya, studying at the RUDN University in the field of "fundamental informatics and information technology".
 
-Interested in mobile app development, web development, and artificial intelligence
+Interested in mobile app development, web development, and artificial intelligence.
